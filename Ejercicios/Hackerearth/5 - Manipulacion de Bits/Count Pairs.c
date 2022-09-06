@@ -1,6 +1,4 @@
-#include <stdio.h>
-#define size==N
-
+#include<stdio.h>
 int main(){
 int T, N,i,j,A;
 scanf("%d",&T);
