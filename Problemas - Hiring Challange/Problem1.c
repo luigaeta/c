@@ -15,7 +15,7 @@ int getSum(int n)
     for(int i=1;i<=n;i++)
     {
         if(i%7!=0&&i%3!=0)
-            sum=sum+i;
+            sum+=i;
     }
     return sum;
 }
